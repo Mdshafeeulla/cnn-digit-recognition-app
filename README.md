@@ -2,9 +2,6 @@
 
 > A Streamlit web application for **real-time handwritten digit prediction** using a PyTorch Convolutional Neural Network trained on the MNIST dataset.
 
-## 🚀 Live Demo
-> *(Deploy on [Streamlit Cloud](https://streamlit.io/cloud) — it's free! Add your link here)*
-
 ## 🧠 How It Works
 1. User draws a digit on a canvas in the browser
 2. The image is preprocessed and passed to a PyTorch CNN model
