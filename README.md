@@ -5,9 +5,6 @@
 ## 🚀 Live Demo
 > *(Deploy on [Streamlit Cloud](https://streamlit.io/cloud) — it's free! Add your link here)*
 
-## 📸 Screenshot
-> *(Add a screenshot of your app here)*
-
 ## 🧠 How It Works
 1. User draws a digit on a canvas in the browser
 2. The image is preprocessed and passed to a PyTorch CNN model
@@ -35,6 +32,3 @@ streamlit run app.py
 ## 📈 Results
 - Training Accuracy: ~99.2%
 - Test Accuracy: ~99.1%
-
----
-⭐ Star this repo if you found it useful!
